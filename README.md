@@ -1,6 +1,4 @@
-# MBA
+# mba
+Aprendendo Git e GitHub
 
-Aprendendo Git e GitHub 
-
-Realizando teste de atualização.
-
+Atualizando meu arquivo pela segunda vez
